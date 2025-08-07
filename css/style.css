@@ -10,6 +10,7 @@
 
 /* seguros */
 @import "./seguros/seguros.css";
+@import "./termos/termos.css";
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
@@ -18,3 +19,4 @@
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
